@@ -30,3 +30,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafizhhasyhari&show_icons=true&locale=en&layout=compact" alt="hafizhhasyhari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizhhasyhari&show_icons=true&locale=en" alt="hafizhhasyhari" /></p>
+
+Artificial Intelligence Engineer based in Indonesia, Southeast Asia. I started programming at a Vocational High School making websites, mobile apps, desktop apps.
+
+🧑‍🎨 My goal is to create products that provide real value to society
+
+🧰 Over the years, I have used various technologies, from Actionscript for 2D Games, C++, C# on Unity and Unreal Engine for 3D Games, JavaScript, to Python, R for Computational Statistics.
+
+💌 Interested in hiring me? Or do you want to collaborate together on a side-project? Happy to chat! Just reach out to me by email. 
