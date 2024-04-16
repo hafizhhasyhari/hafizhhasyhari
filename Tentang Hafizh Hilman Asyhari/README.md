@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leon24k&label=Profile%20views&color=0e75b6&style=flat" alt="leon24k" /> </p>
 
-<p align="left"> <a href="https://twitter.com/blueonnn" target="blank"><img src="https://img.shields.io/twitter/follow/blueonnn?logo=twitter&style=for-the-badge" alt="blueonnn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AsyharHafizh" target="blank"><img src="https://img.shields.io/twitter/follow/AsyharHafizh?logo=twitter&style=for-the-badge" alt="AsyharHafizh" /></a> </p>
 
 - Currently studying **Electronics, Computer Science**
 - Currently learning **Machine Learning And Data Science 🤖**
@@ -21,9 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/AsyharHafizh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blueonnn" height="30" width="40" /></a>
-
 <a href="https:" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="#" height="30" width="40" /></a>
 </p>
 
