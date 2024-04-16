@@ -14,7 +14,7 @@
 
 - About Me [https://mez.ink/hafizhhasyharip/](https://mez.ink/hafizhhasyhari) 🧑🏻
 
-- How to reach me **rivojr1@gmail.com 📧** 
+- How to reach me **hafizhhasyhari@scrivenerpresenter.com 📧** 
 
 - **I Like Math, Virtual Youtuber ☕**
 
