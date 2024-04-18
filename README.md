@@ -1,6 +1,14 @@
-
+<!--Made By hafizhhasyhari-->
 <h1 align="center">Hi 👋, I'm Hafizh H Asyhari</h1>
 <h1 align="center">はじめまして、私は Hafizh H Asyhari と申します。よろしくお願いします。</h1>
+
+<h1 align="center"><a href="https://github.com/Sabyasachi-Seal"><img width=7% height=15% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif"/></a> I'm a
+   <a href="https://github.com/Sabyasachi-Seal">
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Cloud+Computing+Enthusiast;Cybersecurity+Passionate;Data+Science+Practitioner;AI+%26+ML+Enthusiast;Computer+Science+Undergrad;Tech+Blogger" />
+   </a>
+</h1>
+
+
 <h3 align="center">A Script Writter Fantasy, Animator, Game Developer and an Undergraduate Student from Republic of Indonesia</h3>
 <image align="right" alt="code" width="320" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
 
