@@ -4,7 +4,8 @@
 
 <h1 align="center"><a href="https://github.com/Sabyasachi-Seal"><img width=7% height=15% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif"/></a> I'm a
    <a href="https://github.com/Sabyasachi-Seal">
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Cloud+Computing+Enthusiast;Cybersecurity+Passionate;Data+Science+Practitioner;AI+%26+ML+Enthusiast;Computer+Science+Undergrad;Tech+Blogger" />
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Animator;Software 
+Engineer;Cybersecurity+Passionate;AI+%26+ML+Enthusiast;Robotics;Computer+Science;Tech+Creator" />
    </a>
 </h1>
 
@@ -54,16 +55,15 @@ A Script Writter Fantasy, Animator, Game Developer and an Undergraduate Student 
 * <img src="https://www.worldometers.info/img/flags/small/tn_uk-flag.gif" alt="drawing" height="15" width="30" /> English (Great)
 * Recently started to learn:
 * <img src="https://www.worldometers.info/img/flags/small/tn_ja-flag.gif" alt="drawing" height="15" width="30" /> Japanese
-* <img src="https://www.worldometers.info/img/flags/small/tn_cn-flag.gif" alt="drawing" height="15" width="30" /> Chinese
+* <img src="https://www.worldometers.info/img/flags/small/tn_chn-flag.gif" alt="drawing" height="15" width="30" /> Chinese
 
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-66CC66?style=flat)&nbsp;
 ![Robotics](https://img.shields.io/badge/-Robotics-66CC66?style=flat)&nbsp;
 - ### [Commissions (#)
-- ### [Visual Effect (#)
-- ### [Lab and R&D Project (#)
-- ### [My Blog Official  (https://griyakonstantastatistik.blogspot.com/)
-- ### [Indie Game Dev, Neon Banana (https://neonbanana.io/?fbclid=PAAaYkTfhapFeXnXDCoOE7WGQ-4pPJX2i9oai0vOlxzcD9H_THr61paPGwHvc )
+- [Visual Effect (#)
+- [My Blog Official  (https://griyakonstantastatistik.blogspot.com/)
+- [Indie Game Dev, Neon Banana (https://neonbanana.io/?fbclid=PAAaYkTfhapFeXnXDCoOE7WGQ-4pPJX2i9oai0vOlxzcD9H_THr61paPGwHvc )
 - ### [Robotics (Scrivener Robotics)
-- ### [Contribution on Statistic (#)
+- [Contribution on Statistic (#)
 
 - 私は Indonesia 出身です。
