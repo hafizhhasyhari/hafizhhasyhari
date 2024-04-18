@@ -40,6 +40,12 @@ A Script Writter Fantasy, Animator, Game Developer and an Undergraduate Student 
 
 💌 Interested in hiring me? Or do you want to collaborate together on a side-project? Happy to chat! Just reach out to me by email. 
 
+# Languages
+
+<a href="https://www.duolingo.com/profile/hafizhhasyhari">![Duolingo](https://img.shields.io/badge/-My_Duolingo_Profile_(380_000_XP)-05122A?style=flat&logo=Duolingo)</a>
+* <img src="https://www.worldometers.info/img/flags/small/tn_idn-flag.gif" alt="drawing" height="15" width="30" /> Indonesia (C1)
+* <img src="https://www.worldometers.info/img/flags/small/tn_uk-flag.gif" alt="drawing" height="15" width="30" /> English (Great)
+
 - ### [Commissions (#)
 - ### [Visual Effect (#)
 - ### [Lab and R&D Project (#)
