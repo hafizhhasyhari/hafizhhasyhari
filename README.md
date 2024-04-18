@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hafizh H Asyhari</h1>
-<h3 align="center">A Animator, Game Developer and Student Bachelor</h3>
+<h3 align="center">A Animator, Game Developer and As an Undergraduate Student</h3>
 <image align="right" alt="code" width="320" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leon24k&label=Profile%20views&color=0e75b6&style=flat" alt="leon24k" /> </p>
@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizhhasyhari&show_icons=true&locale=en" alt="hafizhhasyhari" /></p>
 
-Artificial Intelligence Engineer based in Indonesia, Southeast Asia. I started programming at a Vocational High School making websites, mobile apps, desktop apps.
+Artificial Intelligence Engineer based in Indonesia, Southeast Asia. I started programming at a Vocational High School making film, animation, websites, mobile apps, desktop apps.
 
 🧑‍🎨 My goal is to create products that provide real value to society
 
