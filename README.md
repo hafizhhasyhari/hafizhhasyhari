@@ -21,8 +21,9 @@
 
 - About Me [https://mez.ink/hafizhhasyhari/](https://mez.ink/hafizhhasyhari) 🧑🏻
 
-- How to reach me **hafizhhasyhari@scrivenerpresenter.com 📧** 
-
+- How to reach me **hafizhhasyhari@scrivenerpresenter.com 📧**
+  
+You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 - **I Like Math, Anime, Virtual Youtuber ☕**
 
 <h3 align="left">Connect with me:</h3>
@@ -166,7 +167,7 @@ A Script Writter Fantasy, Animator, Game Developer and an Undergraduate Student 
 * <img src="https://www.worldometers.info/img/flags/small/tn_uk-flag.gif" alt="drawing" height="15" width="30" /> English (Great)
 * Recently started to learn:
 * <img src="https://www.worldometers.info/img/flags/small/tn_ja-flag.gif" alt="drawing" height="15" width="30" /> Japanese
-* <img src="https://www.worldometers.info/img/flags/small/tn_cn-flag.gif" alt="drawing" height="15" width="30" /> Chinese
+* <img src="https://www.worldometers.info/img/flags/small/tn_cna-flag.gif" alt="drawing" height="15" width="30" /> Chinese
 Now I'm trying to learn Chinese, but I still don't know Chinese or Mandarinese very well
 
 - Commissions (#)
