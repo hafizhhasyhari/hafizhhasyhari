@@ -40,12 +40,16 @@ A Script Writter Fantasy, Animator, Game Developer and an Undergraduate Student 
 
 💌 Interested in hiring me? Or do you want to collaborate together on a side-project? Happy to chat! Just reach out to me by email. 
 
-# Languages
-
+- **Languages**
 <a href="https://www.duolingo.com/profile/hafizhhasyhari">![Duolingo](https://img.shields.io/badge/-My_Duolingo_Profile_(380_000_XP)-05122A?style=flat&logo=Duolingo)</a>
-* <img src="https://www.worldometers.info/img/flags/small/tn_idn-flag.gif" alt="drawing" height="15" width="30" /> Indonesia (C1)
+* <img src="https://www.worldometers.info/img/flags/small/tn_id-flag.gif" alt="drawing" height="15" width="30" /> Indonesia (C1)
 * <img src="https://www.worldometers.info/img/flags/small/tn_uk-flag.gif" alt="drawing" height="15" width="30" /> English (Great)
+* Recently started to learn:
+* <img src="https://www.worldometers.info/img/flags/small/tn_ja-flag.gif" alt="drawing" height="15" width="30" /> Japanese
+* <img src="https://www.worldometers.info/img/flags/small/tn_cn-flag.gif" alt="drawing" height="15" width="30" /> Chinese
 
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-66CC66?style=flat)&nbsp;
+![Robotics](https://img.shields.io/badge/-Robotics-66CC66?style=flat)&nbsp;
 - ### [Commissions (#)
 - ### [Visual Effect (#)
 - ### [Lab and R&D Project (#)
