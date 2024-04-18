@@ -1,5 +1,4 @@
 <!--Made By hafizhhasyhari-->
-<h1 align="center">Hi 👋, I'm Hafizh H Asyhari</h1>
 <h1 align="center">はじめまして、私は Hafizh H Asyhari と申します。よろしくお願いします。</h1>
 
 <h1 align="center"><a href="https://github.com/Sabyasachi-Seal"><img width=7% height=15% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif"/></a> I'm a
