@@ -13,11 +13,7 @@
 - I’m interested in **Cyber Security, Telecommunication, Energy Renewable**
 
 - About Me [https://mez.ink/hafizhhasyhari/](https://mez.ink/hafizhhasyhari) 🧑🏻
-- ### [Circle (#)
-- ### [Team (#)
-- ### [Lab and R&D Project (#)
-- ### [Energy  (#)
-- ### [Robotics (#)
+
 - How to reach me **hafizhhasyhari@scrivenerpresenter.com 📧** 
 
 - **I Like Math, Anime, Virtual Youtuber ☕**
@@ -42,3 +38,11 @@ Artificial Intelligence Engineer based in Indonesia, Southeast Asia. I started p
 🧰 Over the years, I have used various technologies, from Actionscript for 2D Games, C++, C# on Unity and Unreal Engine for 3D Games, JavaScript, to Python, R for Computational Statistics.
 
 💌 Interested in hiring me? Or do you want to collaborate together on a side-project? Happy to chat! Just reach out to me by email. 
+
+- ### [Commissions (#)
+- ### [Visual Effect (#)
+- ### [Lab and R&D Project (#)
+- ### [My Blog Official  (https://griyakonstantastatistik.blogspot.com/)
+- ### [Indie Game Dev, Neon Banana (https://neonbanana.io/?fbclid=PAAaYkTfhapFeXnXDCoOE7WGQ-4pPJX2i9oai0vOlxzcD9H_THr61paPGwHvc )
+- ### [Robotics (Scrivener Robotics)
+- ### [Contribution on Statistic (#)
