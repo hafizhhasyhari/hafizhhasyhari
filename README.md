@@ -170,10 +170,6 @@ A Script Writter Fantasy, Animator, Game Developer and an Undergraduate Student 
 * <img src="https://www.worldometers.info/img/flags/small/tn_cna-flag.gif" alt="drawing" height="15" width="30" /> Chinese
 Now I'm trying to learn Chinese, but I still don't know Chinese or Mandarinese very well
 
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-</p>
-
 - Commissions (#)
 - Visual Effect (#)
 - My Blog Official  (https://griyakonstantastatistik.blogspot.com/)
