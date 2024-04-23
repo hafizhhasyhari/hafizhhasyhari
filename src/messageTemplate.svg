@@ -251,7 +251,7 @@
   <!-- Hi, I'm Angelo -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="140" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Angelo</text>
+    <text x="15" y="27">Hi, I'm Hafizh H Asyhari</text>
   </g>
 
   <!-- typing 2 -->
@@ -299,7 +299,7 @@
 
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="430" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m a fullstack web engineer. Though, I have a lot</text>
+    <text x="15" y="27">I’m a Animator. Though, I have a lot</text>
     <text x="15" y="50">of interests including community management.</text>
   </g>
 
@@ -326,7 +326,7 @@
     <rect width="513" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find my socials at
-      <a xlink:href="https://links.angelo.fyi">https://links.angelo.fyi</a>
+      <a xlink:href="https://links.angelo.fyi">https://mez.ink/hafizhhasyhari</a>
     </text>
   </g>
 
