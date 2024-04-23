@@ -7,7 +7,8 @@
    </a>
 </h1>
 
-[![Hi, I'm Hafizh. I live in Bekasi, Indonesia. ](./out/output.svg)
+[![Hi, I'm Hafizh. I live in Bekasi, Indonesia. I am a fullstack web engineer. Though, I have a lot of interests including community management. You can find my socials at https://mez.ink/hafizhhasyhari. Thanks for stopping by, have a great day!](./out/output.svg)](https://links.angelo.fyi)
+
 <h3 align="center">A Animator, Game Developer and an Undergraduate Student from Republic of Indonesia</h3>
 <image align="right" alt="code" width="320" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
 
